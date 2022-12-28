@@ -1,6 +1,8 @@
 name: vscode_extensions_manager
 description: A command line tool to manage VSCode extensions.
 version: 0.0.2
+homepage: https://github.com/leynier/vscode_extensions_manager
+repository: https://github.com/leynier/vscode_extensions_manager
 
 environment:
   sdk: ">=2.18.0 <3.0.0"
